@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Java\Lagash\.metadata\.plugins\org.eclipse.jdt.core
+2800816651.index
+3160712975.index
